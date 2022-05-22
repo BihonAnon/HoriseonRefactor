@@ -2,7 +2,7 @@
 REFACTOR OF HORISEON
 # Horiseon Search Engine Optimization Agency Home Page
 
-### This is Byron Dalberg's refactored Horiseon website. In order to comply with accessability standards the website needed some of its div's changed to semantic elements, alt tags were added to images, and the general layout was reviewed. 
+### This is Byron Dalberg's refactored Horiseon website. In order to comply with accessability standards the website needed some of its div's changed to semantic elements, alt tags were added to images, and the HTML layout was reviewed. 
 
 ### Header bar has a nav that links to other parts of the page, links were double checked for functionality.
 ### Working Links
