@@ -1,5 +1,5 @@
 # HoriseonRefactor
-REFACTOR OF HORISEON
+	[LINK TO DEPLOYED APPLICATION](https://youraveragecat.github.io/HoriseonRefactor/)
 # Horiseon Search Engine Optimization Agency Home Page
 
 ### This is Byron Dalberg's refactored Horiseon website. In order to comply with accessability standards the website needed some of its div's changed to semantic elements, alt tags were added to images, and the HTML layout was reviewed. 
